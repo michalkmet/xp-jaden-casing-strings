@@ -1,5 +1,5 @@
 function toJadenCase() {
-  return 'hello';
+  return 'A';
 }
 
 module.exports = toJadenCase;

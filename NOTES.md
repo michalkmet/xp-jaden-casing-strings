@@ -19,3 +19,8 @@ Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 Pomodoro 1:
 - ✅ Initial refactor
 - ✅ User stories
+- User Story 1: Simple one word string to Jaden case
+- ✅ UAT1.1: Given the jaden case function, When I pass 'a', Then it should return 'A'
+- ⚠ TODO UAT1.2: Given the jaden case function, When I pass 'Ab', Then it should return 'Ab'
+- ⚠ TODO UAT1.3: Given the jaden case function, When I pass 'hello', Then it should return 'Hello'
+- ⚠ TODO UAT1.3: Given the jaden case function, When I pass 'hey', Then it should return 'Hey'
