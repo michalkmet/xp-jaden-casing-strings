@@ -17,5 +17,5 @@ Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 ## Plans
 
 Pomodoro 1:
-- ⚠ TODO Initial refactor
-- User stories
+- ✅ Initial refactor
+- ✅ User stories
