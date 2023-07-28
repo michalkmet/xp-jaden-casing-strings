@@ -24,7 +24,7 @@ As a user, I want to pass in one word, so that I can see jaden case function wor
 - ⚠ TODO UAT1.1: Given the jaden case function, When I pass 'a', Then it should return 'A'
 - ⚠ TODO UAT1.2: Given the jaden case function, When I pass 'Ab', Then it should return 'Ab'
 - ⚠ TODO UAT1.3: Given the jaden case function, When I pass 'hello', Then it should return 'Hello'
-- ⚠ TODO UAT1.3: Given the jaden case function, When I pass 'hey', Then it should return 'Hey'
+- ⚠ TODO UAT1.4: Given the jaden case function, When I pass 'hey', Then it should return 'Hey'
 
 User Story 2: Two words string to Jaden case
 As a user, I want to pass in two words string, so that I can see jaden case function working

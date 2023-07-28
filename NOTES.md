@@ -23,4 +23,4 @@ Pomodoro 1:
 - ✅ UAT1.1: Given the jaden case function, When I pass 'a', Then it should return 'A'
 - ✅ UAT1.2: Given the jaden case function, When I pass 'Ab', Then it should return 'Ab'
 - ✅ UAT1.3: Given the jaden case function, When I pass 'hello', Then it should return 'Hello'
-- ⚠ TODO UAT1.3: Given the jaden case function, When I pass 'hey', Then it should return 'Hey'
+- ✅ UAT1.4: Given the jaden case function, When I pass 'hey', Then it should return 'Hey'

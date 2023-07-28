@@ -10,4 +10,7 @@ describe('hello', () => {
   it("UAT1.3: Given the jaden case function, When I pass 'hello', Then it should return 'Hello'", () => {
     expect(toJadenCase('hello')).toBe('Hello');
   });
+  it("Given the jaden case function, When I pass 'hey', Then it should return 'Hey'", () => {
+    expect(toJadenCase('hey')).toBe('Hey');
+  });
 });
