@@ -1,5 +1,4 @@
 function toJadenCase(inputStr) {
-  console.log('inputStr: ', inputStr.split(' '));
   return inputStr
     .split(' ')
     .map((word) => {
