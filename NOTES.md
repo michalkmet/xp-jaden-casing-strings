@@ -28,5 +28,5 @@ Pomodoro 1:
 Pomodoro 2:
 - ✅ Refactor user stories
 - ✅ UAT2.1: When I pass 'a a', Then it should return 'A A'
-- ⚠ TODO UAT2.2: When I pass 'aa ab', Then it should return 'Aa Bb'
+- ✅ UAT2.2: When I pass 'aa bb', Then it should return 'Aa Bb'
 - ⚠ TODO UAT2.3: When I pass 'hey dude', Then it should return 'Hey Dude'

@@ -29,7 +29,7 @@ As a user, I want to pass in one word, so that I can see jaden case function wor
 User Story 2: Two words string to Jaden case
 As a user, I want to pass in two words string, so that I can see jaden case function working
 - ⚠ TODO UAT2.1: Given I'm going to use the jaden case function, When I pass 'a a', Then it should return 'A A'
-- ⚠ TODO UAT2.2: Given I'm going to use the jaden case function, When I pass 'aa ab', Then it should return 'Aa Bb'
+- ⚠ TODO UAT2.2: Given I'm going to use the jaden case function, When I pass 'aa bb', Then it should return 'Aa Bb'
 - ⚠ TODO UAT2.3: Given I'm going to use the jaden case function, When I pass 'hey dude', Then it should return 'Hey Dude'
 
 User Story 3: Whole sentence string to Jaden case

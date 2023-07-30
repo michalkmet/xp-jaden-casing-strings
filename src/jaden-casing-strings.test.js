@@ -19,4 +19,7 @@ describe('User Story 2: Two words string to Jaden case', () => {
   it("UAT2.1: When I pass 'a a', Then it should return 'A A'", () => {
     expect(toJadenCase('a a')).toBe('A A');
   });
+  it("UAT2.2: When I pass 'aa bb', Then it should return 'Aa Bb'", () => {
+    expect(toJadenCase('aa bb')).toBe('Aa Bb');
+  });
 });
