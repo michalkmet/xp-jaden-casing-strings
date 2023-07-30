@@ -26,3 +26,9 @@ describe('User Story 2: Two words string to Jaden case', () => {
     expect(toJadenCase('hey dude')).toBe('Hey Dude');
   });
 });
+
+describe('User Story 3: Whole sentence string to Jaden case', () => {
+  it("UAT3.1: When I pass 'hey man how are you ?', Then it should return 'Hey Man How Are You ?'", () => {
+    expect(toJadenCase('hey man how are you ?')).toBe('Hey Man How Are You ?');
+  });
+});

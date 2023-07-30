@@ -30,3 +30,7 @@ Pomodoro 2:
 - ✅ UAT2.1: When I pass 'a a', Then it should return 'A A'
 - ✅ UAT2.2: When I pass 'aa bb', Then it should return 'Aa Bb'
 - ✅ UAT2.3: When I pass 'hey dude', Then it should return 'Hey Dude'
+
+User Story 3: Whole sentence string to Jaden case
+- ✅ UAT3.1: When I pass 'hey man how are you ?', Then it should return 'Hey Man How Are You ?'
+- ⚠ TODO UAT3.2: When I pass 'How can mirrors be real if our eyes aren't real', Then it should return 'How Can Mirrors Be Real If Our Eyes Aren't Real'
