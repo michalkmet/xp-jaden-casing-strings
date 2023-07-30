@@ -22,4 +22,7 @@ describe('User Story 2: Two words string to Jaden case', () => {
   it("UAT2.2: When I pass 'aa bb', Then it should return 'Aa Bb'", () => {
     expect(toJadenCase('aa bb')).toBe('Aa Bb');
   });
+  it("UAT2.3: When I pass 'hey dude', Then it should return 'Hey Dude'", () => {
+    expect(toJadenCase('hey dude')).toBe('Hey Dude');
+  });
 });
