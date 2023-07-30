@@ -20,7 +20,9 @@ Pomodoro 1:
 - ✅ Initial refactor
 - ✅ User stories
 - User Story 1: Simple one word string to Jaden case
-- ✅ UAT1.1: Given the jaden case function, When I pass 'a', Then it should return 'A'
-- ✅ UAT1.2: Given the jaden case function, When I pass 'Ab', Then it should return 'Ab'
-- ✅ UAT1.3: Given the jaden case function, When I pass 'hello', Then it should return 'Hello'
-- ✅ UAT1.4: Given the jaden case function, When I pass 'hey', Then it should return 'Hey'
+- ✅ UAT1.1: When I pass 'a', Then it should return 'A'
+- ✅ UAT1.2: When I pass 'Ab', Then it should return 'Ab'
+- ✅ UAT1.3: When I pass 'hello', Then it should return 'Hello'
+- ✅ UAT1.4: When I pass 'hey, Then it should return 'Hey'
+Pomodoro 2:
+- ✅ Refactor user stories
