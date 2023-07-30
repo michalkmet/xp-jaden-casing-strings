@@ -33,4 +33,4 @@ Pomodoro 2:
 
 User Story 3: Whole sentence string to Jaden case
 - ✅ UAT3.1: When I pass 'hey man how are you ?', Then it should return 'Hey Man How Are You ?'
-- ⚠ TODO UAT3.2: When I pass 'How can mirrors be real if our eyes aren't real', Then it should return 'How Can Mirrors Be Real If Our Eyes Aren't Real'
+- ✅ UAT3.2: When I pass 'How can mirrors be real if our eyes aren't real', Then it should return 'How Can Mirrors Be Real If Our Eyes Aren't Real'

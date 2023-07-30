@@ -31,4 +31,7 @@ describe('User Story 3: Whole sentence string to Jaden case', () => {
   it("UAT3.1: When I pass 'hey man how are you ?', Then it should return 'Hey Man How Are You ?'", () => {
     expect(toJadenCase('hey man how are you ?')).toBe('Hey Man How Are You ?');
   });
+  it("AT3.2: When I pass 'How can mirrors be real if our eyes aren't real', Then it should return 'How Can Mirrors Be Real If Our Eyes Aren't Real'", () => {
+    expect(toJadenCase("How can mirrors be real if our eyes aren't real")).toBe("How Can Mirrors Be Real If Our Eyes Aren't Real");
+  });
 });
