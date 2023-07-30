@@ -1,12 +1,19 @@
 function toJadenCase(inputStr) {
-  return [...inputStr]
-    .map((char, index) => {
-      if (index === 0) {
-        char = char.toUpperCase();
-      }
-      return char;
+  console.log('inputStr: ', inputStr.split(' '));
+  return inputStr
+    .split(' ')
+    .map((word) => {
+      let result = [...word]
+        .map((char, i) => {
+          if (i === 0) {
+            return char.toUpperCase();
+          }
+          return char;
+        })
+        .join('');
+      return result;
     })
-    .join('');
+    .join(' ');
 }
 
 module.exports = toJadenCase;
